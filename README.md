@@ -1,4 +1,4 @@
-<img src="https://www.giantfreakinrobot.com/wp-content/uploads/2022/10/hellothere.gif">
+<img src="https://www.giantfreakinrobot.com/wp-content/uploads/2022/10/hellothere.gif" width="100">
 
 # I'm __D__ :credit_card:
 
