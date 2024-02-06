@@ -2,11 +2,12 @@
 
 # I'm __D__ :credit_card:
 
->A Jedi Software Engineer lost in Earth
+>A Jedi Software Engineer Felt in Earth
 
 [![D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kardarigan&show_icons=true&bg_color=121212&title_color=F5F5F5&text_color=F05454&icon_color=F5F5F5&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-I Hate using transition, dumb aniamtions in websites, GUI apps, and wich Social Medias that just packed of selfish people who don't make any usefull content. if i could discribe it to people i will use just two colors Black and Red in all my websites and i will build all programms without GUI just in Console and i will completlly disappears the Linux and all of it's distributions(exept BlackArch) and make a world of Windows users . . .
+I dislike using transition and dumb animations on websites, building GUI apps, and in Social Media that are filled with selfish people who don't create useful content. I wish I could describe it to people and use just two colors, Black and Red in all my websites, building all programs without GUI just in Console. After all, I will completely disappear the Linux and all of its distributions (except BlackArch) and make a world of Windows users . . .
+
 
 
 
