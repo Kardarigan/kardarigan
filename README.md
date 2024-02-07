@@ -1,8 +1,8 @@
-<img src="https://www.giantfreakinrobot.com/wp-content/uploads/2022/10/hellothere.gif" width="1400">
+<img src="https://www.giantfreakinrobot.com/wp-content/uploads/2022/10/hellothere.gif](https://64.media.tumblr.com/c44c73496a90322a4f3ac7b4d05b6c82/ecd224062a866f6a-48/s540x810/172f7b4a5e3290b37607abf8569b9c21effc2d0e.gif)" width="400">
 
 # Hello there World! I'm __D__ :credit_card:
 
->A Jedi Software Engineer Felt in Earth
+>A Jedi Software Engineer Fell on Earth
 
 [![D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kardarigan&show_icons=true&bg_color=121212&title_color=F5F5F5&text_color=F05454&icon_color=F5F5F5&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
