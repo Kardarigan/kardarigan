@@ -7,7 +7,7 @@
 I dislike using transition and dumb animations on websites, building GUI apps, and in Social Media that are filled with selfish people who don't create useful content. I wish I could describe it to people and use just two colors, Black and Red in all my websites, building all programs without GUI just in Console. After all, I will completely disappear the Linux and all of its distributions (except BlackArch because it's name) and make a world of Windows users . . .
 
 
-Let's make lots of Programmes&#128509;
+Let's make lots of Programmes <img alt="😀" class="imgs" src="data:image/png;base64,R0lGODlhDAAPAKIFAJh3AP/zxAAAANyuAP/gaP///wAAAAAAACH/C05FVFNDQVBFMi4wAwEAAAAh+QQJAAAFACwAAAAADAAPAAADLVi63P6wjEmrDDjrGYj/H0cIIElwpJmeQweC4hu2BGDfnnjjrLvPLtlJUikWEgAh+QQJAAAFACwAAAAADAAPAAADLVi63M4jyllGuDjHQLr3GyF8I7GNJWpaXxu2IAvMdBfS9coReLzDpspk+HAkAAAh+QQJCgAFACwAAAAADAAPAAADLVi6vPMwlhGqvS+QzXkmQhcSWTiaJNWt3+qpQCxvnzynGmG/uUtOkWBjSCQmAAAh+QQJFAAFACwAAAAADAAPAAADLViz3BowyhWIvZcSgTmhnBd+Q4Vh2pmVBOC+lvbCpDmvpvopTV/8wKBwSCwWEgAh+QQJCgAFACwAAAAADAAPAAADLVi6vPMwlhGqvS+QzXkmQhcSWTiaJNWt3+qpQCxvnzynGmG/uUtOkWBjSCQmAAAh+QQFAAAFACwAAAAADAAPAAADLVi63M4jyllGuDjHQLr3GyF8I7GNJWpaXxu2IAvMdBfS9coReLzDpspk+HAkAAA7">
 
 
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@Darigan)
