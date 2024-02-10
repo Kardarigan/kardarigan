@@ -1,6 +1,6 @@
 # Hello there World! I'm __D__ :credit_card:
 
->A Jedi Software Engineer Fell on Earth
+>A Jedi Software Engineer Fallen on the Earth
 
 [![D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kardarigan&show_icons=true&bg_color=121212&title_color=F5F5F5&text_color=F05454&icon_color=F5F5F5&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
