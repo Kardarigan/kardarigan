@@ -8,7 +8,8 @@ I hate using transition and dumb animations on websites, building GUI apps, and 
 
 Cold Beer, cold weather, qualified system, Let's write lots of Codes 🗽
 
-[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@Darigan)
+
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/Darigan)
+[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@Darigan)
 
 >May the Force be with us...
