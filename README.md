@@ -2,7 +2,7 @@
 
 # Hello there, World! I'm __D__ 🛰️
 
-I'm Darigan — a Persian Software Engineer from the Moon, currently coding somewhere in the Solar System.
+I'm Dara — a Persian Software Engineer from the Moon, currently coding somewhere in the Solar System.
 
 I despise unnecessary transitions, dumb animations, and bloated GUI apps. If it were up to me?  
 Every app would run in the console. Every website would be black and red. Every OS would be Windows.  
