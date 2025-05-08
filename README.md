@@ -11,6 +11,4 @@ Every app would run in the console. Every website would be black and red. Every 
 But despite all that, I *love* code.  
 Writing it. Breaking it. Rewriting it. Again and again. Even for no one but myself.
 
-Let’s build something legendary.  
-🗽 May the Force be with us...
-
+🗽 Let’s build something legendary...
