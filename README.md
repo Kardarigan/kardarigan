@@ -5,7 +5,7 @@
 I'm Dara — a Persian Software Engineer from the Moon, currently coding somewhere in the Solar System.
 
 I despise unnecessary transitions, dumb animations, and bloated GUI apps. If it were up to me?  
-Every app would run in the console. Every website would be black and red. Every OS would be Windows.  
+Every app would run in the console. Every website would be black. Every OS would be Windows.  
 (Linux? Nah. Except maybe BlackArch — it just sounds cool.)
 
 But despite all that, I *love* code.  
