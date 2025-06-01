@@ -10,5 +10,3 @@ Every app would run in the console. Every website would be black. Every OS would
 
 But despite all that, I *love* code.  
 Writing it. Breaking it. Rewriting it. Again and again. Even for no one but myself.
-
-🗽 Let’s build something legendary...
